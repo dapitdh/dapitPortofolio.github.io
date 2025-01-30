@@ -13,3 +13,17 @@
 div.container {
     animation: slideUp 1.5s ease-in-out;
 }
+
+.navbar {
+    z-index: 1000;
+}
+
+.pp {
+    width: 12%;
+}
+
+@media (max-width: 768px) {
+    .pp {
+        width: 25%;
+    }
+}
