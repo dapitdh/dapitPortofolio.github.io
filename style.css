@@ -10,7 +10,7 @@
     }
 }
 
-div.container {
+.container {
     animation: slideUp 1.5s ease-in-out;
 }
 
@@ -26,4 +26,8 @@ div.container {
     .pp {
         width: 25%;
     }
+}
+
+i {
+    cursor: pointer;
 }
